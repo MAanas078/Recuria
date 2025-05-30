@@ -1,0 +1,18 @@
+{
+    "name": "MOHD AANAS",
+    "graduation_year": 2026,
+    "education": "Bachelor of Engineering in Electronics and Communication - UIET, Panjab University, Chandigarh",
+    "yoe": 0,
+    "gpa": 7.21,
+    "email": "mohdanas94113@gmail.com",
+    "phone": "+91-6399493891",
+    "initial_score": 7.5,
+    "notes": "A strong candidate with relevant projects and skills. However, the lack of professional experience may be a concern. His academic background is not directly in computer science, which could be a factor.  The projects demonstrate a good understanding of full-stack development using technologies like React, Node.js, and MongoDB.  The LeetCode achievements show dedication to problem-solving. His participation in Hackathons is a plus. Consider whether the lack of direct CS education and professional experience outweighs his demonstrated skills and strong portfolio.",
+    "phone_screen": "not completed",
+    "status": "new",
+    "secondary_score": 0,
+    "location": "MOHD_AANAS.pdf",
+    "file_name": "MOHD_AANAS.pdf",
+    "technical_skills": "C++, HTML/CSS, JavaScript, TypeScript, SQL, VS Code, Postman, MongoDB Compass, Git-GitHub, Tailwind CSS, Bootstrap, Node.js / Express.js, React, Redux, MongoDB",
+    "UID": 56
+}
